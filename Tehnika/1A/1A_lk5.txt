@@ -1,0 +1,41 @@
+ASUS TUF Gaming X3 GeForce GTX 1660 Advanced Edition 6GB GDDR5 PCIE TUF3-GTX1660-A6G-GAMING#314,90€#
+Kiibistik (chipset): GeForce GTX 1660
+Taktsagedus: 1500
+Mälu: 6 GB
+Mälu tüüp: GDDR 5
+Bitid: 192 bit
+Siin: PCI Express 3.0
+Asus Radeon RX 580 TOP Edition 8GB GDDR5 PCIE AREZ-STRIX-RX580-T8G-GAMING#360,00€#
+Taktsagedus: 1411
+Mälu: 8 GB
+Mälu tüüp: GDDR 5
+Bitid: 256 bit
+Siin: PCI Express 3.0
+Asus Turbo GeForce RTX 2060 6GB GDDR6 PCIE TURBO-RTX2060-6G#397,06€#
+Kiibistik (chipset): GeForce RTX 2060
+Taktsagedus: 1365
+Mälu: 6 GB
+Mälu tüüp: GDDR6
+Bitid: 192 bit
+Siin: PCI Express 3.0
+Asus GeForce RTX 2060 Super EVO 8GB GDDR6 PCIE TURBO-RTX2060S-8G-EVO#445,00€#
+Kiibistik (chipset): GeForce RTX 2060
+Taktsagedus: 1470
+Mälu: 8 GB
+Mälu tüüp: GDDR6
+Bitid: 256 bit
+Siin: PCI Express 3.0
+MSI GeForce RTX 2080 DUKE 8G GDDR6 OC GEFORCERTX2080DUKE8GOC#896,72€#
+Kiibistik (chipset): GeForce RTX 2080
+Taktsagedus: 1515
+Mälu: 8 GB
+Mälu tüüp: GDDR6
+Bitid: 256 bit
+Siin: PCI Express 3.0
+Asus GeForce RTX 2080 Ti Dual Advanced Edition 11GB GDDR6 PCIE DUAL-RTX2080TI-A11G#1320,64€#
+Kiibistik (chipset): GeForce RTX 2080 Ti
+Taktsagedus: 1560
+Mälu: 11 GB
+Mälu tüüp: GDDR 3
+Bitid: 352 bit
+Siin: PCI Express 3.0

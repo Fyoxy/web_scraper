@@ -1,0 +1,321 @@
+Sapphire Radeon RX 570 PULSE 8GB GDDR5 PCIE 11266-66-20G#170,00€#
+Kiibistik (chipset): Radeon RX 570
+Mälu: 8 GB
+Mälu tüüp: GDDR 5
+Bitid: 256 bit
+Siin: PCI Express 3.0
+MSI GeForce RTX 2080 AERO 8GB GDDR6 PCIE#846,34€#
+Kiibistik (chipset): GeForce RTX 2080
+Taktsagedus: 1515
+Mälu: 8 GB
+Mälu tüüp: GDDR6
+Bitid: 256 bit
+Siin: PCI Express 3.0
+Gigabyte GeForce RTX 2060 Windforce OC 6GB GDDR6 PCIE GV-N2060WF2OC-6GD2.0#358,00€#
+Kiibistik (chipset): GeForce RTX 2060
+Taktsagedus: 1770
+Mälu: 6 GB
+Mälu tüüp: GDDR6
+Bitid: 192 bit
+Siin: PCI Express 3.0
+Gigabyte GeForce GTX 1660 Ti Gaming OC 6GB GDDR6 PCIE GV-N166TGAMINGOC-6GD#334,14€#
+Kiibistik (chipset): GeForce GTX 1660 Ti
+Taktsagedus: 1860
+Mälu: 6 GB
+Mälu tüüp: GDDR6
+Bitid: 192 bit
+Siin: PCI Express 3.0
+Gigabyte GeForce GTX1050 Ti OC 4GB GDDR5 PCIE GV-N105TOC-4GD#150,47€#
+Kiibistik (chipset): GeForce GTX 1050 TI
+Taktsagedus: 1316
+Mälu: 4 GB
+Mälu tüüp: GDDR 5
+Bitid: 128 bit
+Siin: PCI Express 3.0
+Gigabyte GeForce RTX 2060 Super Gaming OC 8GB GDDR6 PCIE GV-N206SGAMING OC-8GC#450,00€#
+Kiibistik (chipset): GeForce RTX 2060
+Taktsagedus: 1815
+Mälu: 8 GB
+Mälu tüüp: GDDR6
+Bitid: 256 bit
+Siin: PCI Express 3.0
+MSI GeForce GTX 1660 Gaming X 6GB GDDR5 PCIE GTX1660GAMINGX6G#283,74€#
+Kiibistik (chipset): GeForce GTX 1660
+Mälu: 6 GB
+Mälu tüüp: GDDR 5
+Bitid: 192 bit
+Siin: PCI Express 3.0
+MSI GeForce RTX 2070 Super Ventus OC 8GB GDDR6 PCIE RTX2070SUPERVENTUS8GOC#550,00€#
+Kiibistik (chipset): GeForce RTX 2070
+Mälu: 8 GB
+Mälu tüüp: GDDR6
+Bitid: 256 bit
+Siin: PCI Express 3.0
+MSI GeForce GTX 1660 Ventus XS OC 6GB GDDR5 PCIE GTX1660VENTUSXS6GOC#260,00€#
+Kiibistik (chipset): GeForce GTX 1660
+Mälu: 6 GB
+Mälu tüüp: GDDR 5
+Bitid: 192 bit
+Siin: PCI Express 3.0
+Sapphire Radeon RX 580 Nitro+ 4GB GDDR5 PCIE 11265-07-20G#193,92€#
+Kiibistik (chipset): Radeon RX 580
+Taktsagedus: 1411
+Mälu: 4 GB
+Mälu tüüp: GDDR 5
+Bitid: 256 bit
+Siin: PCI Express 3.0
+Zotac Gaming GeForce GTX 1660 Ti 6GB GDDR6 ZT-T16610F-10L#290,96€#
+Kiibistik (chipset): GeForce GTX 1660 Ti
+Mälu: 6 GB
+Mälu tüüp: GDDR6
+Bitid: 192 bit
+Siin: PCI Express 3.0
+Sapphire Pulse Radeon RX 570 4GB GDDR5 PCIE 11266-67-20G#149,83€#
+Kiibistik (chipset): Radeon RX 570
+Mälu: 4 GB
+Mälu tüüp: GDDR 5
+Bitid: 256 bit
+Siin: PCI Express 3.0
+MSI GeForce GTX 1660 Armor OC 6GB GDDR5 PCIE GTX1660ARMOR6GOC#265,90€#
+Kiibistik (chipset): GeForce GTX 1660
+Mälu: 6 GB
+Mälu tüüp: GDDR 5
+Bitid: 192 bit
+Siin: PCI Express 3.0
+Palit GeForce GTX 1660 Ti Dual 6GB GDDR6 PCIE NE6166T018J9-1160A#295,93€#
+Kiibistik (chipset): GeForce GTX 1660 Ti
+Taktsagedus: 1500
+Mälu: 6 GB
+Mälu tüüp: GDDR6
+Bitid: 192 bit
+Siin: PCI Express 3.0
+Gigabyte GeForce GTX 1650 OC Edition 4GB GDDR5 PCIE GV-N1650OC-4GD#165,67€#
+Kiibistik (chipset): GeForce GTX 1650
+Taktsagedus: 1710
+Mälu: 4 GB
+Mälu tüüp: GDDR 5
+Bitid: 128 bit
+Siin: PCI Express 3.0
+Gigabyte GeForce GTX 1660 Gaming OC 6GB GDDR6 PCIE GV-N1660GAMINGOC-6GD#248,77€#
+Kiibistik (chipset): GeForce GTX 1660
+Mälu: 6 GB
+Mälu tüüp: GDDR 5
+Bitid: 192 bit
+Siin: PCI Express 3.0
+Gigabyte AORUS GeForce RTX 2080 Ti 11GB GDDR6 PCIE GV-N208TAORUS-11GC#1380,04€#
+Kiibistik (chipset): GeForce RTX 2080 Ti
+Taktsagedus: 1695
+Mälu: 11 GB
+Mälu tüüp: GDDR6
+Bitid: 352 bit
+Siin: PCI Express 3.0
+Gigabyte Radeon RX 5700 XT Gaming OC 8GB GDDR6 PCIE GV-R57XTGAMING OC-8GD#475,00€#
+Kiibistik (chipset): Radeon RX 5700 XT
+Taktsagedus: 1650
+Mälu: 8 GB
+Mälu tüüp: GDDR6
+Bitid: 256 bit
+Siin: PCI Express 4.0
+Gigabyte GeForce GTX 1660 Ti Windforce OC 6GB GDDR6 PCIE GV-N166TWF2OC-6GD#301,97€#
+Kiibistik (chipset): GeForce GTX 1660 Ti
+Taktsagedus: 1845
+Mälu: 6 GB
+Mälu tüüp: GDDR6
+Bitid: 192 bit
+Siin: PCI Express 3.0
+Gigabyte GeForce RTX 2060 Gaming OC Pro 6GB GDDR6 PCIE GV-N2060GAMINGOCPRO-6GD#387,35€#
+Kiibistik (chipset): GeForce RTX 2060
+Taktsagedus: 1830
+Mälu: 6 GB
+Mälu tüüp: GDDR6
+Bitid: 192 bit
+Siin: PCI Express 3.0
+Sapphire RX 590 Nitro+ 8GB GDDR5 PCIE 11289-05-20G#247,09€#
+Kiibistik (chipset): Radeon RX 590
+Taktsagedus: 1545
+Mälu: 8 GB
+Mälu tüüp: GDDR 5
+Bitid: 256 bit
+Siin: PCI Express 3.0
+MSI GeForce RTX 2060 Gaming Z 6GB GDDR6 PCIE RTX2060GAMINGZ6G#464,83€#
+Kiibistik (chipset): GeForce RTX 2060
+Mälu: 6 GB
+Mälu tüüp: GDDR6
+Bitid: 192 bit
+Siin: PCI Express 3.0
+Gigabyte GeForce GTX 1660 Ti OC 6GB GDDR6 PCIE GV-N166TOC-6GD#293,68€#
+Kiibistik (chipset): GeForce GTX 1660 Ti
+Taktsagedus: 1800
+Mälu: 6 GB
+Mälu tüüp: GDDR6
+Bitid: 192 bit
+Siin: PCI Express 3.0
+ASRock Phantom Gaming D RX 580 OC 8GB GDDR5 PG D RADEON RX580 8G OC#180,43€#
+Kiibistik (chipset): Radeon RX 580
+Taktsagedus: 1370
+Mälu: 8 GB
+Mälu tüüp: GDDR 5
+Bitid: 256 bit
+Siin: PCI Express 3.0
+Sapphire Pulse Radeon RX 5700 XT 8GB GDDR6 PCIE 11293-01-20G#445,00€#
+Kiibistik (chipset): Radeon RX 5700 XT
+Taktsagedus: 1670
+Mälu: 8 GB
+Mälu tüüp: GDDR6
+Bitid: 256 bit
+Siin: PCI Express 3.0
+Sapphire Pulse Radeon RX 5700 8GB GDDR6 PCIE 11294-01-20G#390,00€#
+Kiibistik (chipset): Radeon RX 5700
+Taktsagedus: 1540
+Mälu: 8 GB
+Mälu tüüp: GDDR6
+Bitid: 256 bit
+Siin: PCI Express 3.0
+Sapphire Pulse Radeon RX 580 8GB GDDR5 PCIE 11265-05-20G#212,27€#
+Kiibistik (chipset): Radeon RX 580
+Taktsagedus: 1366
+Mälu: 8 GB
+Mälu tüüp: GDDR 5
+Bitid: 256 bit
+Siin: PCI Express 3.0
+Sapphire Radeon RX 5700 XT 8GB GDDR6 PCIE 21293-01-40G#431,64€#
+Kiibistik (chipset): Radeon RX 5700 XT
+Taktsagedus: 1605
+Mälu: 8 GB
+Mälu tüüp: GDDR6
+Bitid: 256 bit
+Siin: PCI Express 3.0
+Gigabyte GeForce RTX 2060 Super Gaming OC 3X White 8GB GDDR6 PCIE GV-N206SGAMINGOCWHITE-8GD#445,00€#
+Kiibistik (chipset): GeForce RTX 2060
+Taktsagedus: 1815
+Mälu: 8 GB
+Mälu tüüp: GDDR6
+Bitid: 256 bit
+Siin: PCI Express 3.0
+XFX Radeon RX 5700 XT Thicc 8GB GDDR6 PCIE RX-57XT8DFD6#445,73€#
+Kiibistik (chipset): Radeon RX 5700 XT
+Taktsagedus: 1605
+Mälu: 8 GB
+Mälu tüüp: GDDR6
+Bitid: 256 bit
+Siin: PCI Express 3.0
+Sapphire Radeon RX 590 Nitro+ 50TH Edition 8GB GDDR5 PCIE 11289-07-20G#235,00€#
+Kiibistik (chipset): Radeon RX 590
+Taktsagedus: 1560
+Mälu: 8 GB
+Mälu tüüp: GDDR 5
+Bitid: 256 bit
+Siin: PCI Express 3.0
+Sapphire Radeon RX 590 NITRO+ SE 8GB GDDR5 PCIE 11289-01-20G#224,09€#
+Kiibistik (chipset): Radeon RX 590
+Mälu: 8 GB
+Mälu tüüp: GDDR 5
+Bitid: 256 bit
+Siin: PCI Express 3.0
+Zotac Gaming GeForce GTX 1660 Ti AMP 6GB GDDR6 PCIE ZT-T16610D-10M#323,56€#
+Kiibistik (chipset): GeForce GTX 1660 Ti
+Mälu: 6 GB
+Mälu tüüp: GDDR6
+Bitid: 192 bit
+Siin: PCI Express 3.0
+Asus Radeon RX 5700 8GB GDDR6 PCIE RX5700-8G#376,57€#
+Kiibistik (chipset): Radeon RX 5700
+Taktsagedus: 1465
+Mälu: 8 GB
+Mälu tüüp: GDDR6
+Bitid: 256 bit
+Siin: PCI Express 3.0
+MSI GeForce GT 1030 Aero ITX OC 2GB GDDR5 PCIE#90,00€#
+Kiibistik (chipset): GeForce GT 1030
+Taktsagedus: 1265
+Mälu: 2 GB
+Mälu tüüp: GDDR 5
+Bitid: 64 bit
+Siin: PCI Express 3.0
+Zotac Gaming GeForce GTX 1650 OC 4GB GDDR5 PCIE ZT-T16500F-10L#158,06€#
+Kiibistik (chipset): GeForce GTX 1650
+Mälu: 4 GB
+Mälu tüüp: GDDR 5
+Bitid: 128 bit
+Siin: PCI Express 3.0
+EVGA GeForce RTX 2060 XC Ultra Gaming 6GB GDDR6 PCIE 06G-P4-2167-KR#386,53€#
+Kiibistik (chipset): GeForce RTX 2060
+Mälu: 6 GB
+Mälu tüüp: GDDR6
+Bitid: 192 bit
+Siin: PCI Express 3.0
+Asus GeForce GTX 1660 Ti OC Edition 6GB GDDR6 PCIE DUAL-GTX1660TI-O6G#309,74€#
+Kiibistik (chipset): GeForce GTX 1660 Ti
+Taktsagedus: 1500
+Mälu: 6 GB
+Mälu tüüp: GDDR6
+Bitid: 192 bit
+Siin: PCI Express 3.0
+Gainward GeForce GT710 SilentFX 2GB DDR3 PCIE 426018336-3576#46,00€#
+Kiibistik (chipset): GeForce GT 710
+Taktsagedus: 954
+Mälu: 2 GB
+Mälu tüüp: GDDR 3
+Bitid: 64 bit
+Siin: PCI Express 2.0
+Gigabyte GeForce GTX 1660 Ti MINI ITX OC 6GB GDDR6 PCIE GV-N166TIXOC-6GD#289,30€#
+Kiibistik (chipset): GeForce GTX 1660 Ti
+Taktsagedus: 1785
+Mälu: 6 GB
+Mälu tüüp: GDDR6
+Bitid: 192 bit
+Siin: PCI Express 3.0
+MSI Radeon RX 5700 8GB GDDR6 PCIE RADEONRX57008G#374,14€#
+Kiibistik (chipset): Radeon RX 5700
+Taktsagedus: 1465
+Mälu: 8 GB
+Mälu tüüp: GDDR6
+Bitid: 256 bit
+Siin: PCI Express 3.0
+MSI GeForce GTX 1660 Ti Armor OC 6GB PCIE GDDR6 GTX1660TiARMOR6GOC#335,00€#
+Kiibistik (chipset): GeForce GTX 1660 Ti
+Mälu: 6 GB
+Mälu tüüp: GDDR6
+Bitid: 192 bit
+Siin: PCI Express 3.0
+Gigabyte GeForce GTX 1050 Ti 4GB GDDR5 PCIE rev1.1 GV-N105TD5-4GDV1.1#136,02€#
+Kiibistik (chipset): GeForce GTX 1050 TI
+Taktsagedus: 1290
+Mälu: 4 GB
+Mälu tüüp: GDDR 5
+Bitid: 128 bit
+Siin: PCI Express 3.0
+PNY Quadro P1000 4GB GDDR5 PCIE VCQP1000-PB#358,09€#
+Kiibistik (chipset): Quadro P1000
+Taktsagedus: 1354
+Mälu: 4 GB
+Mälu tüüp: GDDR 5
+Bitid: 128 bit
+Siin: PCI Express 3.0
+Gigabyte GeForce RTX 2060 Windforce OC 6GB GDDR6 PCIE GV-N2060WF2OC-6GD#377,71€#
+Kiibistik (chipset): GeForce RTX 2060
+Taktsagedus: 1770
+Mälu: 6 GB
+Mälu tüüp: GDDR6
+Bitid: 192 bit
+Siin: PCI Express 3.0
+PNY GeForce RTX 2080 XLR8 OC TRIPPLE FAN 8GB GDDR6 VCG20808TFPPB-O#846,00€#
+Kiibistik (chipset): GeForce RTX 2080
+Taktsagedus: 1515
+Mälu: 8 GB
+Mälu tüüp: GDDR6
+Bitid: 256 bit
+Siin: PCI Express 3.0
+Asus ROG STRIX GeForce RTX 2080 TI OC Edtion 11GB GDDR6 PCIE RTX2080TI-O11G-GAMING#1392,62€#
+Kiibistik (chipset): GeForce RTX 2080 Ti
+Taktsagedus: 1350
+Mälu: 11 GB
+Mälu tüüp: GDDR6
+Siin: PCI Express 3.0
+MSI GeForce GT710 2GB DDR3 PCIE Heatsink GT 710 2GD3H LP#45,00€#
+Kiibistik (chipset): GeForce GT 710
+Taktsagedus: 954
+Mälu: 2 GB
+Mälu tüüp: GDDR 3
+Bitid: 64 bit
+Siin: PCI Express 2.0
